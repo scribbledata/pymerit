@@ -1,0 +1,5 @@
+[run]
+include =
+    pymerit/*
+omit =
+    pymerit/tests/*
